@@ -7,4 +7,8 @@ API will be opened at Apr. 15, 2015.
 
 1. Link API
 
+Get download link and streaming link URLs by passing a video title or IMDB number to our API server, returns you a list of URL in JOSN format.
+
 2. Video data API
+
+Get video information by passing a video title or IMDB number to our API server, returns you simple information of the video in JOSN format. 
