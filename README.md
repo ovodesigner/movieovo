@@ -11,4 +11,4 @@ Get download link and streaming link URLs by passing a video title or IMDB numbe
 Get video information by passing a video title or IMDB number to our API server, returns you simple information of the video in JSON format.
 
 It is free and easy-to-use. It only requires you register a free account to get auth key from your profile page.
-API will be opened at Apr. 15, 2015.
+API will be opened when the user control panel is up. ( About Apr.15)
